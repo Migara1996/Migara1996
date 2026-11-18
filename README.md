@@ -83,9 +83,7 @@ A cloud-based application developed to explore different AWS deployment architec
 
 I'm always interested in connecting with people working in data, analytics, machine learning and AI.
 
-- **LinkedIn:** [Add your LinkedIn URL]
-- **Email:** [Add your professional email]
-- **Portfolio:** [Add your portfolio URL, if available]
+- **LinkedIn:** [https://www.linkedin.com/in/migara-vidanalage-ab9368180/]
 
 ---
 
